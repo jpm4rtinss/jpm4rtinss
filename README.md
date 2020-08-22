@@ -8,8 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
+- 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript  | Jquery
 - 🔧 &nbsp; Git | Markdown 
 - 🖥 &nbsp; Adobe XD | Figma | Illustrator | Photoshop 
 
