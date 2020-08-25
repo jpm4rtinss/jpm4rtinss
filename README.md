@@ -14,7 +14,6 @@
 
 <br/>
 
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/joaopedromartinss/"><img alt="LinkedIn" src="https://image.flaticon.com/icons/svg/1384/1384046.svg" width="30"></a>
