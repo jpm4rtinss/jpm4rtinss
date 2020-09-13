@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies in front end.
+- 🤔 &nbsp; Exploring new technologies in front end. (Focus on JS)
 - 🎓 &nbsp; Studying Product Design at Universidade do Estado de Minas Gerais - UEMG.
 - 🌱 &nbsp; Learning more about UX/UI Design.
 
