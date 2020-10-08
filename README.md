@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript ES6
+- 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript ES6 
 - 🔧 &nbsp; Git | Markdown 
 - 🖥 &nbsp; Adobe XD | Figma | Illustrator | Photoshop 
 
