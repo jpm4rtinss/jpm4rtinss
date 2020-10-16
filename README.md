@@ -1,4 +1,4 @@
-<h2> Hey there! I'm João Pedro.</h2>
+<h2> Hey there! I'm João Pedro Martins.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
