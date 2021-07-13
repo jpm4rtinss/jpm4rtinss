@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies in front end. (Focus on JS)
 - 🎓 &nbsp; Studying Product Design at Universidade do Estado de Minas Gerais - UEMG.
 - 🌱 &nbsp; Learning more about UX/UI Design.
-- 💻 &nbsp; Working at Dti Digital as a Web Designer
+- 💻 &nbsp; Working at Dti Digital as a UX/UI Designer
 
 <h3>🛠 Tech Stack</h3>
 
