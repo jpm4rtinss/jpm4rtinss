@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies in front end. (Focus on JS)
-- 🎓 &nbsp; Studying Product Design at Universidade do Estado de Minas Gerais - UEMG.
+- 🎓 &nbsp; Product Design Graduated at Universidade do Estado de Minas Gerais - UEMG.
 - 🌱 &nbsp; Learning more about UX/UI Design.
 - 💻 &nbsp; Working at Dti Digital as a UX/UI Designer
 
